@@ -1,0 +1,6 @@
+D:\КомпОбрДанн\Csharp\Lab2_StringCalculator\StrCalcProject\StrCalcProject\bin\Debug\StrCalcProject.exe.config
+D:\КомпОбрДанн\Csharp\Lab2_StringCalculator\StrCalcProject\StrCalcProject\bin\Debug\StrCalcProject.exe
+D:\КомпОбрДанн\Csharp\Lab2_StringCalculator\StrCalcProject\StrCalcProject\bin\Debug\StrCalcProject.pdb
+D:\КомпОбрДанн\Csharp\Lab2_StringCalculator\StrCalcProject\StrCalcProject\obj\Debug\StrCalcProject.csprojResolveAssemblyReference.cache
+D:\КомпОбрДанн\Csharp\Lab2_StringCalculator\StrCalcProject\StrCalcProject\obj\Debug\StrCalcProject.exe
+D:\КомпОбрДанн\Csharp\Lab2_StringCalculator\StrCalcProject\StrCalcProject\obj\Debug\StrCalcProject.pdb
